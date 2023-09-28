@@ -8,7 +8,9 @@
     {"id":{"name":"obj_slm","path":"objects/obj_slm/obj_slm.yy",},"order":0,},
     {"id":{"name":"spr_magt_mr1","path":"sprites/spr_magt_mr1/spr_magt_mr1.yy",},"order":3,},
     {"id":{"name":"spr_insectcocoon","path":"sprites/spr_insectcocoon/spr_insectcocoon.yy",},"order":5,},
+    {"id":{"name":"obj_noentrwall","path":"objects/obj_noentrwall/obj_noentrwall.yy",},"order":1,},
     {"id":{"name":"spr_spdr_idle1","path":"sprites/spr_spdr_idle1/spr_spdr_idle1.yy",},"order":2,},
+    {"id":{"name":"spr_noentrwall","path":"sprites/spr_noentrwall/spr_noentrwall.yy",},"order":7,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
